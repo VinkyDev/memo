@@ -1,0 +1,24 @@
+{
+  "name": "memo",
+  "description": "Persistent working memory for long Claude Code sessions. Maintains a tiny, hand-curated MEMORY.md that survives context compaction — capturing core context, current progress, decisions, and pitfalls.",
+  "version": "0.1.0",
+  "author": {
+    "name": "VinkyDev"
+  },
+  "homepage": "https://github.com/VinkyDev/memo",
+  "repository": "https://github.com/VinkyDev/memo",
+  "license": "MIT",
+  "keywords": [
+    "memory",
+    "context",
+    "skill",
+    "claude-code",
+    "long-task",
+    "memo",
+    "context-compaction",
+    "working-memory"
+  ],
+  "skills": [
+    "./SKILL.md"
+  ]
+}

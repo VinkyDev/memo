@@ -1,0 +1,10 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "groupings": [
+    {
+      "title": "Productivity",
+      "description": "Tools that make long-running development tasks survive context limits.",
+      "skills": ["memo"]
+    }
+  ]
+}

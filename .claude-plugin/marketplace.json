@@ -1,0 +1,14 @@
+{
+  "name": "memo",
+  "owner": {
+    "name": "VinkyDev"
+  },
+  "plugins": [
+    {
+      "name": "memo",
+      "description": "Persistent working memory MEMORY.md for long Claude Code sessions",
+      "source": ".",
+      "version": "0.1.0"
+    }
+  ]
+}
