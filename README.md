@@ -38,13 +38,29 @@ The agent maintains it for you, throughout the session — automatically when yo
 
 ## Installation
 
+### Via Claude Code Plugin
+
+```bash
+/plugin marketplace add VinkyDev/memo
+/plugin install memo
+```
+
+The plugin is installed from GitHub and registered as `memo`. Skills are invoked as `/memo:memo`.
+
+To update or remove:
+
+```bash
+/plugin update memo
+/plugin remove memo
+```
+
 ### Via `skills.sh`
 
 ```bash
 npx skills add VinkyDev/memo
 ```
 
-The skill is copied into `~/.claude/skills/memo/` and is available in any agent session.
+The skill is copied into `~/.claude/skills/memo/` and is available as `/memo` in any agent session.
 
 ### Manual
 

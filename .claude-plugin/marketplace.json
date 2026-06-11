@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "memo",
   "owner": {
     "name": "VinkyDev"
@@ -7,7 +8,7 @@
     {
       "name": "memo",
       "description": "Persistent working memory MEMORY.md for long Claude Code sessions",
-      "source": ".",
+      "source": "./",
       "version": "0.1.0"
     }
   ]
