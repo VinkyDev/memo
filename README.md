@@ -57,14 +57,8 @@ To update or remove:
 ### Via `skills.sh`
 
 ```bash
-npx skills add VinkyDev/memo
+npx skills add https://github.com/VinkyDev/memo --skill memo 
 ```
-
-The skill is copied into `~/.claude/skills/memo/` and is available as `/memo` in any agent session.
-
-### Manual
-
-Drop `SKILL.md` into your agent's skills directory (or wherever it reads custom skill definitions).
 
 ---
 
