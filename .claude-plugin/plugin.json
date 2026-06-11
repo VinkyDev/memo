@@ -18,7 +18,5 @@
     "context-compaction",
     "working-memory"
   ],
-  "skills": [
-    "./SKILL.md"
-  ]
+  "skills": "./skills"
 }
